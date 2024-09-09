@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# repo431
-=======
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -25,4 +22,3 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
->>>>>>> 557b234 (Initial commit for CSCE 431 project)
